@@ -1,0 +1,7 @@
+{
+    "javascript.envFile": "$(react-scheduler)/.env",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "cSpell.words": [
+        "gapi"
+    ]
+}
